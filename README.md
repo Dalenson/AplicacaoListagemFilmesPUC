@@ -21,4 +21,5 @@ Este projeto é uma aplicação de listagem de filmes desenvolvida em React, int
    cd nome-do-repositorio
    ```
 2. npm install
-3. npm start
+3. Ajustar variavel TOKEN_CRIADO para o token gerado no site: https://developer.themoviedb.org
+4. npm start
